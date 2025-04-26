@@ -1,0 +1,44 @@
+[33m5affd80[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mappointment[m[33m)[m HEAD@{0}: rebase (finish): returning to refs/heads/appointment
+[33m5affd80[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mappointment[m[33m)[m HEAD@{1}: rebase (pick): 建立repository
+[33mbf0e56d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{2}: rebase (start): checkout master
+[33m6910868[m[33m ([m[1;31morigin/release[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/develop[m[33m)[m HEAD@{3}: pull --no-commit --rebase origin develop (finish): returning to refs/heads/appointment
+[33m6910868[m[33m ([m[1;31morigin/release[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/develop[m[33m)[m HEAD@{4}: pull --no-commit --rebase origin develop (start): checkout 691086846ca498bd1d809cabaa9538f67e0afa80
+[33mbf0e56d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{5}: reset: moving to bf0e56d0da548c7ffd80ed614ac5a51a4a4ce1ad
+[33mf38e0de[m HEAD@{6}: reset: moving to f38e0deacafd7a8ad47604ea3b039a2aa106b665
+[33mf6995b5[m HEAD@{7}: reset: moving to f6995b52523ed9d2d53c2743381c32290c4a9a05
+[33m9dbcb71[m HEAD@{8}: reset: moving to 9dbcb71e2ca58b717025d2785be4953ef14af302
+[33m9dbcb71[m HEAD@{9}: commit: 更新bootstrap
+[33mf6995b5[m HEAD@{10}: commit: 更新spring
+[33mf38e0de[m HEAD@{11}: reset: moving to HEAD
+[33mf38e0de[m HEAD@{12}: commit: 更新appointbean錯字
+[33mbf0e56d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{13}: reset: moving to bf0e56d0da548c7ffd80ed614ac5a51a4a4ce1ad
+[33mbf0e56d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{14}: checkout: moving from appointment to appointment
+[33mbf0e56d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{15}: reset: moving to bf0e56d0da548c7ffd80ed614ac5a51a4a4ce1ad
+[33mbf0e56d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{16}: reset: moving to bf0e56d0da548c7ffd80ed614ac5a51a4a4ce1ad
+[33mbf0e56d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{17}: reset: moving to bf0e56d0da548c7ffd80ed614ac5a51a4a4ce1ad
+[33mbf0e56d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{18}: reset: moving to bf0e56d0da548c7ffd80ed614ac5a51a4a4ce1ad
+[33mbf0e56d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{19}: reset: moving to bf0e56d0da548c7ffd80ed614ac5a51a4a4ce1ad
+[33ma63870c[m HEAD@{20}: reset: moving to a63870cca7d5fa859f363276ee1579a6c69790e0
+[33m6bda6d9[m HEAD@{21}: reset: moving to 6bda6d91c099a41a58488bd62b58fdef55ee2a1b
+[33m6bda6d9[m HEAD@{22}: reset: moving to 6bda6d91c099a41a58488bd62b58fdef55ee2a1b
+[33m23ec18f[m HEAD@{23}: reset: moving to 23ec18f858240c47759e6ce57d951ed3b71eaca0
+[33m23ec18f[m HEAD@{24}: revert: Reapply "init"
+[33m6bda6d9[m HEAD@{25}: revert: Revert "init"
+[33m802ff49[m HEAD@{26}: revert: Revert "appointment bean"
+[33ma63870c[m HEAD@{27}: reset: moving to a63870cca7d5fa859f363276ee1579a6c69790e0
+[33ma63870c[m HEAD@{28}: commit: appointment bean
+[33mbf0e56d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{29}: reset: moving to bf0e56d0da548c7ffd80ed614ac5a51a4a4ce1ad
+[33mbf0e56d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{30}: reset: moving to bf0e56d0da548c7ffd80ed614ac5a51a4a4ce1ad
+[33me7697b6[m HEAD@{31}: revert: Revert "init"
+[33m876f741[m HEAD@{32}: commit: appointment bean
+[33m9459b9a[m HEAD@{33}: revert: Revert "init"
+[33m9983d82[m HEAD@{34}: reset: moving to 9983d82cffb5fe48d3907a86256c4d98f84ce5a1
+[33m9983d82[m HEAD@{35}: checkout: moving from appointment to appointment
+[33m9983d82[m HEAD@{36}: checkout: moving from appointment to appointment
+[33m9983d82[m HEAD@{37}: checkout: moving from appointment to appointment
+[33m9983d82[m HEAD@{38}: commit: appointment bean
+[33mbf0e56d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{39}: checkout: moving from appointment to appointment
+[33mbf0e56d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{40}: checkout: moving from appointment to appointment
+[33mbf0e56d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{41}: checkout: moving from appointment to appointment
+[33mbf0e56d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{42}: checkout: moving from master to appointment
+[33mbf0e56d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{43}: commit (initial): init
